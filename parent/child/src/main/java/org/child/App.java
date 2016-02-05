@@ -1,4 +1,4 @@
-package com.adious.parent;
+package org.child;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! from Parent class" );
+        System.out.println( "Hello World! from child" );
     }
 }
